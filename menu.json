@@ -1,0 +1,67 @@
+{
+    "menu":[
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"$$$k",
+            "image":"image0.png",
+            "note":""
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":"Best<br>Seller"
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":"Must<br>Try"
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":""
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":""
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":""
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":""
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":""
+        },
+        {
+            "name":"Tên món",
+            "price":"$$$k",
+            "discount":"0",
+            "image":"image0.png",
+            "note":""
+        }
+    ]
+}
